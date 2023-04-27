@@ -1,0 +1,27 @@
+
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (40,'DENTO ART',3750,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (41,'DENTO ART',4000,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (42,'DENTO ART',16250,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (43,'DENTO ART',31500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (44,'DENTO ART',11250,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (45,'DENTO ART',17000,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (46,'DENTO ART',13250,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (47,'DENTO ART',13250,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (48,'DENTO ART',11500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (49,'DENTO ART',19500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (50,'DENTO ART',13250,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (51,'DENTO ART',47250,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (52,'DENTO ART',47250,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (53,'DENTO ART',72000,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (54,'DENTO ART',34500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (55,'DENTO ART',44500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (56,'DENTO ART',44500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (57,'DENTO ART',44500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (58,'DENTO ART',70250,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (59,'DENTO ART',9750,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (60,'DENTO ART',9750,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (61,'DENTO ART',9750,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (62,'DENTO ART',9750,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (63,'DENTO ART',9750,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (64,'DENTO ART',19750,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (84,'DENTO ART',9750,4);

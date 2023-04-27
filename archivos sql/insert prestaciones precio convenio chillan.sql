@@ -1,0 +1,27 @@
+
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (40,'PRECIO CONVENIO',3500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (41,'PRECIO CONVENIO',3500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (42,'PRECIO CONVENIO',15000,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (43,'PRECIO CONVENIO',30500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (44,'PRECIO CONVENIO',11000,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (45,'PRECIO CONVENIO',16500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (46,'PRECIO CONVENIO',13000,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (47,'PRECIO CONVENIO',13000,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (48,'PRECIO CONVENIO',10500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (49,'PRECIO CONVENIO',18500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (50,'PRECIO CONVENIO',13000,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (51,'PRECIO CONVENIO',45500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (52,'PRECIO CONVENIO',45500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (53,'PRECIO CONVENIO',69500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (54,'PRECIO CONVENIO',33500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (55,'PRECIO CONVENIO',45500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (56,'PRECIO CONVENIO',43500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (57,'PRECIO CONVENIO',43500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (58,'PRECIO CONVENIO',66000,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (59,'PRECIO CONVENIO',9500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (60,'PRECIO CONVENIO',9500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (61,'PRECIO CONVENIO',9500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (62,'PRECIO CONVENIO',9500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (63,'PRECIO CONVENIO',9500,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (64,'PRECIO CONVENIO',19000,4);
+INSERT INTO nombre_descuento (prestaciones_idprestaciones, tipo_descuento, precio, ubicacion_empresa_idubicacion_empresa)             VALUES (84,'PRECIO CONVENIO',12500,4);
